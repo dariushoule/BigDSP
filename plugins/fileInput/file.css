@@ -1,0 +1,60 @@
+.sampleLibrary {
+  background-color: #3c3c3c;
+  height: 130px;
+  padding: 6px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+.sampleLibrary ul {
+  list-style-type: none;
+}
+
+.sampleLibrary ul li {
+  color: #06704e;
+  font-weight: bold;
+  border-bottom: 1px solid #cecece;
+  background-color: #cecece;
+  cursor: pointer;
+  height: 18px;
+}
+
+.sampleLibrary ul li.selectable {
+  background-color: transparent;
+}
+
+.mediaInfo {
+  height: 130px;
+  padding: 6px;
+  margin: 0 0 10px 0;
+  color: #06704e;
+  font-weight: bold;
+}
+
+section.fileInCustomWidget {
+  height: 232px;
+}
+
+section.fileInCustomWidget .widgetLeftPane {
+  height: 160px;
+}
+
+.sampleControls {
+  position: absolute;
+  bottom: -5px;
+  left: 0px;
+  line-height: 15px;
+  width: 300px;
+}
+
+.sampleControls .controlPane {
+  width: 149px; 
+}
+
+.controlPane a {
+  text-decoration: underline;
+}
+
+.mediaMetaNode {
+  display: none;
+}

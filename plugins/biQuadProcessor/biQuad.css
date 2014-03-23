@@ -1,0 +1,12 @@
+section.biQuadCustomWidget {
+  height: 200px;
+}
+
+.widget strong {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.widget table td {
+  text-align: left;
+}

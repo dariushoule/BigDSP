@@ -1,0 +1,9 @@
+.widget canvas {
+  width: 300px;
+  height: 110px;
+  background-color: #00498f;
+}
+
+.liveVUMeter {
+  width: 300px;
+}

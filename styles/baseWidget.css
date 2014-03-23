@@ -1,0 +1,67 @@
+/* WIDGET STYLING ------------------------------------------------------------------------ B */
+.widget {
+  position: relative;
+  height: 160px;
+  width: 920px;
+  padding: 0 40px;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+  color: #fff;
+  margin-top: 20px;
+}
+
+.widget a {
+  color: #fff;
+  font-style: italic;
+}
+
+.widgetShadow {
+  -webkit-box-shadow:  2px 2px 4px 4px rgba(0, 0, 0, .5);
+  box-shadow:  2px 2px 4px 4px rgba(0, 0, 0, .5);
+}
+
+.widgetCenter {
+  text-align: center;
+}
+
+.widgetLeftPane {
+  position: absolute;
+  width: 300px;
+  top: 25px;
+  left: 50px;
+}
+
+.widgetRightPane {
+  position: absolute;
+  width: 300px;
+  top: 25px;
+  right: 50px;
+}
+
+.widgetTitle {
+  font: bold 35px/38px "Lucida Grande", Arial, sans-serif;
+  text-shadow: 2px 2px 4px rgba(0, 15, 0, 0.88);
+  color: #fefefe;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 5px 0 15px 0;
+}
+
+.vuTrim {
+  overflow: hidden;
+}
+
+.widgetCenter button {
+  width: 160px;
+}
+
+
+.remove {
+  margin-top: 12px;
+  height: 32px;
+  cursor: pointer;
+}
+
+.defaultWidgetBack {
+  background: #000 url(gfx/use_your_illusion.png); 
+}
+/* WIDGET STYLING ------------------------------------------------------------------------ E */
