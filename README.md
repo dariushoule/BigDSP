@@ -11,12 +11,20 @@ BigDSP is a framework for writing your very own audio processing/visualization c
 
 BigDSP contains seven plugins by default, each demonstrating some core features the Web Audio framework provides. [Located in plugins/]
 
+
 Name: File Input
+
 Name: Live Input (Experimental)
+
 Name: Tone Generator
+
 Name: Biquad Filter
+
 Name: Overdrive
+
 Name: Panner
+
 Name: Graph
+
 
 The project currently lacks good documentation so these can serve as a springboard for your own projects. 
