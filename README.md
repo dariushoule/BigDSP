@@ -7,7 +7,8 @@ Born out of a desire to build my very own in-browser audio processing rack!
 
 BigDSP is a framework for writing your very own audio processing/visualization componenents. Mostly an exploration of the browser-based Web Audio API. The work in progress WebAudio standard promises to be a powerful resource in client side audio processing and synthesizing.
 
-**Bundled Plugins**
+### Bundled Plugins
+
 BigDSP contains seven plugins by default, each demonstrating some core features the Web Audio framework provides. [Located in plugins/]
 
 Name: File Input
