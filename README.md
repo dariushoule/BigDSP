@@ -1,5 +1,5 @@
-The BigDSP WebAudo Experiment
-=============================
+The BigDSP WebAudio Experiment
+==============================
 
 Born out of a desire to build my very own in-browser audio processing rack! 
 
