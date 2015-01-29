@@ -25,6 +25,3 @@ Name: Overdrive
 Name: Panner
 
 Name: Graph
-
-
-The project currently lacks good documentation so these can serve as a springboard for your own projects. 
